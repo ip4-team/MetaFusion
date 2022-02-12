@@ -1,5 +1,7 @@
-This fork sets a conda environment for MetaFusion.  
-activate the environment with,  
+This fork sets a conda environment for MetaFusion and downloads the necessary references.  
+Do:  
+`bash setup_metafusion.sh`  
+You can activate the environment with,  
 `conda activate metafusion`  
 
 ## Original MetaFusion README.md text below
