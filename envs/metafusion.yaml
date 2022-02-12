@@ -1,0 +1,18 @@
+name: metafusion
+
+channels:
+  - defaults
+  - r
+  - bioconda
+  - conda-forge
+
+dependencies:
+  - python=2.7
+  - r=3.2.2.0
+  - bioconductor-rbgl=1.46.0
+  - bedtools=2.30.0
+  - pybedtools=0.8.1
+  - pandas
+  - perl=5.26.2
+  - perl-set-intervaltree=0.12
+  - perl-json-xs=2.34
